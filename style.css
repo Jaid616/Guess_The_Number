@@ -1,0 +1,48 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container {
+  background-color: blue;
+  height: 300px;
+  width: 600px;
+  margin: auto auto;
+  position: relative;
+}
+
+.head {
+  text-align: center;
+  color: #ffff;
+  font-size: 24px;
+  padding: 30px;
+}
+.para {
+  text-align: center;
+  color: #ffff;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.textnum {
+  display: block;
+  padding: auto auto;
+  margin: auto;
+  width: 50%;
+  height: 30px;
+}
+.btn {
+  padding: 0.8rem;
+  background-color: red;
+  color: #ffff;
+  margin-top: 0;
+  position: absolute;
+  top: 70%;
+  left: 40%;
+  margin: 0;
+}
+
+.down{
+    position: absolute;
+    top:85%;
+    left:30%;
+}
